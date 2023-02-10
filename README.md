@@ -37,4 +37,5 @@ Example of a web application</p>
 <h4>Conclusion</h4>
 <p>Increased Internet usage among companies and individuals has influenced the way businesses are run. This has led to the widespread adoption of web applications as companies shift from traditional models to cloud-based and grid models. Web applications give businesses the ability to streamline their operations, increase efficiency, and reduce costs.</p>
 <p>These online apps such as email clients, word processors, spreadsheets, and other programs provide the same functionality as the desktop versions. However, they have an added advantage of working across multiple platforms, having a broader reach, and being easily accessible from anywhere.</p>
+<hr>
 <h3>Reference from <a href="https://www.stackpath.com/edge-academy/what-is-a-web-application/">STACKPATH</a>'s post.</h3>
