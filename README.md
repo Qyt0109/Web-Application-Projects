@@ -40,4 +40,4 @@ Example of a web application</p>
 
 <p>These online apps such as email clients, word processors, spreadsheets, and other programs provide the same functionality as the desktop versions. However, they have an added advantage of working across multiple platforms, having a broader reach, and being easily accessible from anywhere.</p>
 
-<h3>Reference from <a href="https://www.stackpath.com/edge-academy/what-is-a-web-application/">STACKPATH</a> </h3>
+<h3>Reference from <a href="https://www.stackpath.com/edge-academy/what-is-a-web-application/">STACKPATH</a>'s post.</h3>
